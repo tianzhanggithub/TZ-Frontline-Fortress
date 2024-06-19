@@ -1,0 +1,8 @@
+spring:
+  application:
+    # 应用名称: 前线要塞
+    name: TZ-Frontline-Fortress
+server:
+  # 启动端口号
+  port: 8000
+
